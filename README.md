@@ -1,5 +1,6 @@
 <h1 align="center">DevColab</h1>
 <p align="center">A development environment in Google Colab</p>
+ <a href="https://colab.research.google.com/github/thecoder-001/DevColab/blob/master/DevColab.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" align="right"></a>
 
 ## :hear_no_evil:  First of all, what is google Colab?
 As the official FAQ says, colaboratory, or “Colab” for short, is a product from Google Research. Colab allows anybody to write and execute arbitrary python code through the browser, and is especially well suited to machine learning, data analysis and education. More technically, Colab is a hosted Jupyter notebook service that requires no setup to use, while providing free access to computing resources including GPUs.
