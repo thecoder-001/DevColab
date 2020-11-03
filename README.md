@@ -23,3 +23,7 @@ As Google Colab is a VM running Ubuntu server as base OS, it can be easily used 
 5. Install and setup code-server to facilitate VScode in browser.
 6. Startup the VScode server (with defined config and working directory in google drive) <br>
    \[or] Startup ssh server.
+   
+   
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/thecoder-001)
+
