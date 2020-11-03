@@ -12,7 +12,7 @@ Yes, Colab is free to use. But there are some points which, according to me one 
 2. If it isn't obvious, one shouldn't run mission-critical services (like large and important servers/databases/python programs) on it. Its resources are not guaranteed and not unlimited, and the usage limits sometimes fluctuate. Also, the notebook has a maximum runtime of 12 hours, after which, it should be manually restarted.
 3. One should not try to spread it as wildfire (in my opinion), that there's a free service available to every living being out there. If such a sudden boom in user base happens, Google would be forced to close down the free teir of google colab, devoiding many hobbists of the free service. Keep it like a secret, telling it to only those who are worthy and know how to use it.
 
-Blah blah blah...its a private repo so not much matters. Use it freely as you wish but keep point 3 in mind.
+In the end, it is just my personal opinion and can be ignored safely. Just ask your heart whats right and whats wrong. Also, please try to use it as a once in a while resource and not 24x7 so that others can avail the free resources too.
 
 ## :zap:  So, how does it actually work?
 As Google Colab is a VM running Ubuntu server as base OS, it can be easily used as a remote development enviornment. Here are the steps which the notebook performs to setup the server:
